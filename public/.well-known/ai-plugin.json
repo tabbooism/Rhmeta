@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "web_metadata_app",
+  "name_for_human": "Web Metadata App",
+  "description_for_model": "An app that provides standard web metadata.",
+  "description_for_human": "Standard web metadata provider.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "/openapi.yaml",
+    "is_user_authenticated": false
+  },
+  "logo_url": "/favicon.ico",
+  "contact_email": "tabbooism@gmail.com",
+  "legal_info_url": "/legal"
+}

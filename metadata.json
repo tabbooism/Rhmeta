@@ -1,0 +1,5 @@
+{
+  "name": "Web Standard Metadata App",
+  "description": "An application containing standard web metadata files like robots.txt, sitemap.xml, and security.txt.",
+  "requestFramePermissions": []
+}

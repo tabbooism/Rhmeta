@@ -1,0 +1,4 @@
+Contact: mailto:tabbooism@gmail.com
+Expires: 2027-04-04T14:39:32.000Z
+Preferred-Languages: en
+Canonical: https://ais-dev-f6j2mu54wd5j2vxrv6zhz2-601210891173.us-east1.run.app/.well-known/security.txt

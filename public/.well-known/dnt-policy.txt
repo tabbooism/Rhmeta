@@ -1,0 +1,2 @@
+# DNT Policy
+# This site respects Do Not Track requests.
